@@ -1,0 +1,7 @@
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\bin\Debug\LancoltListak_Fak.exe.config
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\bin\Debug\LancoltListak_Fak.exe
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\bin\Debug\LancoltListak_Fak.pdb
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\obj\Debug\LancoltListak_Fak.csprojAssemblyReference.cache
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\obj\Debug\LancoltListak_Fak.csproj.CoreCompileInputs.cache
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\obj\Debug\LancoltListak_Fak.exe
+C:\Users\szabi\Desktop\SchoolStuff\C#\LancoltListak_Fak\LancoltListak_Fak\obj\Debug\LancoltListak_Fak.pdb

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-LancoltListak_Fak",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-LancoltListak_Fak",
+      "appliesTo": "LancoltListak_Fak/",
+      "type": "launch"
+    }
+  ]
+}
